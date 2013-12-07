@@ -1,2 +1,2 @@
-dnaApp
+dnaModelingApp
 ======
